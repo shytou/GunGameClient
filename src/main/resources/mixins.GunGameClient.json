@@ -1,0 +1,9 @@
+{
+  "required": true,
+  "package": "me.shytou.gungame.mixin.mixins",
+  "refmap": "mixins.GunGameClient.refmap.json",
+  "compatibilityLevel": "JAVA_8",
+  "mixins": [
+    "MixinPlayerControllerMP"
+  ]
+}

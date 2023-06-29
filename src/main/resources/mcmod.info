@@ -1,0 +1,16 @@
+[
+{
+  "modid": "gungameclient",
+  "name": "Gun Game Client",
+  "description": "Einfach nen Client fuer Out of Map",
+  "version": "${version}",
+  "mcversion": "${mcversion}",
+  "url": "",
+  "updateUrl": "",
+  "authorList": ["shytou"],
+  "credits": "Ignore me...Anyway FML/Forge team",
+  "logoFile": "",
+  "screenshots": [],
+  "dependencies": []
+}
+]
